@@ -1,0 +1,8 @@
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\bin\Debug\SamplePlugin.dll
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\bin\Debug\SamplePlugin.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\bin\Debug\PaintInterface.dll
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\bin\Debug\PaintInterface.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.uControl.resources
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.csproj.GenerateResource.Cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.dll
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.pdb
